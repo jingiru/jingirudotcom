@@ -21,8 +21,8 @@ header h1 {
 }
 
 section {
-  margin-bottom: 3rem;
-  padding: 2rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
   border-radius: 16px;
   background-color: white;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
@@ -38,10 +38,6 @@ main {
   padding: 2rem;
   max-width: 1000px;
   margin: auto;
-}
-
-section {
-  margin-bottom: 3rem;
 }
 
 h2 {
