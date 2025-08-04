@@ -32,8 +32,15 @@ section {
 .logo {
   width: 300px;
   max-width: 80%;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;  /* 기존 1rem에서 줄임 */
 }
+
+header p {
+  margin-top: 0;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
 
 main {
   padding: 2rem;
